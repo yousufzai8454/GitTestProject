@@ -19,6 +19,5 @@ public class TaskinCalss4 {
 				System.out.println(names[0][3]+" "+names[1][3]);
 				
 	}
-	
 
 }

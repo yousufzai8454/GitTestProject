@@ -31,6 +31,7 @@ public class DoWhileLoop1 {
 			System.out.print(num2+" ");
 			num2++;
 		}while (num2<=30);
+		
 		{
 			
 			

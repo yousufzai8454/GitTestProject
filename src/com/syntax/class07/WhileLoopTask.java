@@ -10,8 +10,11 @@ public static void main(String[] args) {
 		a+=2;
 		
 	}
+	System.out.println();
 	
-	System.out.println("Another way to print even numbers from 1 to 30");
+	
+	System.out.println("--------------Another way to print even numbers from 1 to 30-------------");
+	
 	
 	int b=1;
 	

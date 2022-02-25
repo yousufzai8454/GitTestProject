@@ -8,7 +8,7 @@ public class SwitchCaseThree {
 		 * based on the value of the car define the country of origin. 
 		 */
 		
-		String car ="Toyota";
+		String car ="Ford";
 		
 		String country = null;
 		
